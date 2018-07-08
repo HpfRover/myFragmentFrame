@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccent"
+    android:orientation="vertical">
+
+    <TextView
+        android:background="@android:color/darker_gray"
+        android:textSize="30sp"
+        android:textColor="@android:color/holo_red_dark"
+        android:gravity="center"
+        android:text="测试代码"
+        android:layout_width="match_parent"
+        android:layout_height="70dp" />
+    <!--<ImageView
+        android:scaleType="fitXY"
+        android:src="@drawable/test"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />-->
+
+
+</LinearLayout>
